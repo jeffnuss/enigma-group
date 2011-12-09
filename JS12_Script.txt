@@ -1,0 +1,19 @@
+date = new Date();
+year = date.getYear();
+pass = 1337;
+
+for(i = 1; i <= year; i++)
+{
+	pass += year * i * year;
+}
+
+if(pass == 318338237039211050000) 
+{
+		alert("Good job!");
+		window.location.href = year + ".php";
+}
+else
+{
+		alert("Sorry, did you fail already?!");
+		window.location.href = "./index.php";
+}
