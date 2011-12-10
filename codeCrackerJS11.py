@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 #!/usr/bin/env python
 
-## Recursive funtion to reverse the algorithm
+# Recursive funtion to reverse engineer the algorithm
 def codeCracker(n):
     i = 0.0
     charList = "abcdefghijklmnopqrstuvwxyz"
@@ -28,6 +28,7 @@ def codeCracker(n):
     password.pop()
 
 password = []
+# Smaller test cases before moving on the the main event
 ##codeCracker(53) ## cb
 ##codeCracker(907) ## cbf
 ##codeCracker(15421) ## cbfb
