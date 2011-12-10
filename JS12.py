@@ -1,5 +1,5 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Enigma_Group_JS12_cracker
 # Purpose:
 #
 # Author:      Jeff Nuss
